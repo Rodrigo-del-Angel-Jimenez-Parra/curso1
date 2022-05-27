@@ -17,5 +17,8 @@ public class code2dataname
         boolean e;
         e=true;
         System.out.println("boolean= "+e);
+        String f;
+        f="cadena xd";
+        System.out.println("String= "+f);
     }
 }
