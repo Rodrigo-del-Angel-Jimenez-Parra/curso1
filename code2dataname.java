@@ -2,6 +2,8 @@ public class code2dataname
 {
     public static void main(String[] args) 
     {
+        //byte short int long son variables tipo entero
+        //double y float pueden almacenar numeros reales o con punto decimal
         byte a;
         a=127;
         System.out.println("byte= "+a);
@@ -20,5 +22,8 @@ public class code2dataname
         String f;
         f="cadena xd";
         System.out.println("String= "+f);
+        float g;
+        g=3.1416f;
+        System.out.println("float= "+g);
     }
 }
