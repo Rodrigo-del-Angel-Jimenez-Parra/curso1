@@ -17,7 +17,7 @@ public class code5Operators
         res= a-b;
         mul= a*b;
         div= a/b;
-        mod= a%b;
+        mod= a%b; //mod hace la division y luego te da el residuo de la division, 10%2= residuo de 10/2 
         System.out.println("\nSe realizaron las siguientes operaciones: \n");
         System.out.println("La suma de los numero es: " +sum);
         System.out.println("\nLa resta de los numero es: " +res);
