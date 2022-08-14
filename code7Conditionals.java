@@ -57,5 +57,7 @@ public class code7Conditionals
 
         } while (c!= 3);
         */
+
+        // for (inicializacion int a=; condicion a<=10; aumento o decremento a++ a--)
     }    
 }
