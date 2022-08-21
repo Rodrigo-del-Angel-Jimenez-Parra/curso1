@@ -44,6 +44,8 @@ public class code8Arrays
         */
         
         /*
+
+        
         int a, c=0, cn=0;
         System.out.print("Ingrese el numero de nombres a guardar: ");
         a= e.nextInt();
@@ -54,6 +56,8 @@ public class code8Arrays
             System.out.print("Ingrese el "+c+".- nombre: ");
             nombres[i]= an.nextLine();
         }
+
+        
         //for each: tipo de dato, nombre de la variable y nombre del arreglo
         for (String inombres : nombres) 
         {
